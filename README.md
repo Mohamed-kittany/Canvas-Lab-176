@@ -9,3 +9,5 @@ This lab was focused on implementing failover routing using Amazon Route 53 for 
 The primary objective of this lab was to configure domain DNS settings such that traffic is automatically redirected to a secondary Amazon Elastic Compute Cloud (EC2) instance in a different Availability Zone if the primary instance becomes unavailable. This setup provides a practical demonstration of using Amazon Route 53's failover routing capability to maintain application uptime during instance failures.
 
 By the end of this lab, I successfully configured the DNS failover system. This ensures that the web application remains accessible, demonstrating effective disaster recovery and business continuity planning using AWS services.
+
+<img width="568" alt="failover-arch" src="https://github.com/Mohamed-kittany/Canvas-Lab-176/assets/161580792/6858ce8e-7f77-42d7-8963-c555e648dadb">
